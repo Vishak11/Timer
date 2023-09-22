@@ -1,0 +1,28 @@
+.slider{
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+.thumb{
+    background-color: rgb(252, 95, 95);
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+   
+}
+
+.slider-break{
+    height: 40px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
